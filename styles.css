@@ -187,8 +187,7 @@ body{
     border-radius: 50px;
     background-color: rgba(52, 62, 78, 0.5);
     backdrop-filter: blur(4px);
-    padding: 2rem;
-
+    padding: 1.2rem;
 }
 .socialMedia img{
     width: 24px;
